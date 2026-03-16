@@ -178,7 +178,8 @@ This project compares two approaches:
 Both models are evaluated on the **MNIST test dataset**.
 
 The comparison highlights the differences between **manual neural network implementation and modern deep learning frameworks**.
-<img width="1451" height="596" alt="image" src="https://github.com/user-attachments/assets/7b7b5fae-d21f-41cb-9ff3-7a71afb40d93" />
+<img width="947" height="864" alt="image" src="https://github.com/user-attachments/assets/a7cd4707-53fb-4bc7-8aa4-506ef4395b8a" />
+
 
 
 ---
